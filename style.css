@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+  color: black;
+  font-size:100px;
+}
+h2{
+  text-align: center;
+  color: black;
+  font-size:100px;
+}
+.List{
+  text-align:left;
+}
+
+p{
+  text-align: left;
+  color: black;
+  font-size: 20px;
+}
+
+h2:hover{
+color: gold;
+}
+
+.Places{
+  text-align: left;
+}
+
+body{
+  background-color: #F7ECDE;
+}
